@@ -1,1 +1,5 @@
 theme: jekyll-theme-cayman
+baseurl: /~ieo2/test_site/_site/
+repository: EnginAir/enginair.github.io
+title: EnginAir
+description: EnginAir is a web-app designed to help Honeywell determine where Wi-Fi is needed most for its CEDAS systems.
