@@ -27,4 +27,4 @@ deploy:
   skip_cleanup: true
   script: rsync -r --delete-after -e "ssh -o \"StrictHostKeyChecking=no\"" --quiet $TRAVIS_BUILD_DIR/_site $SFTP_USER@linux.cefns.nau.edu:/home/ieo2/public_html/test_site/
   on:
-    branch: travis-dev
+    branch: master
