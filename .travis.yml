@@ -25,6 +25,6 @@ before_install:
 deploy:
   provider: script
   skip_cleanup: true
-  script: rsync -r --delete-after -e "ssh -o \"StrictHostKeyChecking=no\"" --quiet $TRAVIS_BUILD_DIR/_site $SFTP_USER@linux.cefns.nau.edu:/www/sites/cefns/capstone/projects/CS/2020/EnginAir-S20/
+  script: rsync -r --delete-after -e "ssh -o \"StrictHostKeyChecking=no\"" --quiet $TRAVIS_BUILD_DIR/_site/ $SFTP_USER@linux.cefns.nau.edu:/www/sites/cefns/capstone/projects/CS/2020/EnginAir-S20/
   on:
     branch: master
