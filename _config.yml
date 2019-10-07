@@ -1,5 +1,26 @@
-theme: jekyll-theme-cayman
-baseurl: /capstone/projects/CS/2020/EnginAir-S20/
+markdown:         kramdown
+highlighter:      rouge
+
+theme: jekyll-theme-hydeout
+baseurl: /capstone/projects/CS/2020/EnginAir-S20
 repository: EnginAir/enginair.github.io
 title: EnginAir
-description: EnginAir is a web-app designed to help Honeywell determine where Wi-Fi is needed most for its CEDAS systems.
+tagline: A Capstone Project
+description: A capstone project
+lang: en
+timezone: America/Phoenix
+
+exclude:
+- meme.pem.enc
+- .git/
+- Gemfile
+- Gemfile.lock
+- .travis.yml
+- README.md
+- vendor
+- .bundle
+
+author:
+  name: 'EnginAir'
+  url: https://cefns.nau.edu/capstone/projects/CS/2020/EnginAir-S20/
+
