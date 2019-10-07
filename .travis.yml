@@ -13,9 +13,13 @@ addons:
     - libcurl4-openssl-dev
 jobs:
   include:
-  - stage: Test
+  - stage: Production Deploy
     script:
     - JEKYLL_ENV=production bundle exec jekyll build
+  - stage: Staging Deploy
+    script:
+    - JEKYLL_ENV=production bundle exec jekyll build --config _config.yml,_config_development.yml
+    if: branch = staging
 before_install:
 - openssl aes-256-cbc -K $encrypted_9d525edf3d79_key -iv $encrypted_9d525edf3d79_iv
   -in meme.pem.enc -out /tmp/meme.pem -d
