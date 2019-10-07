@@ -16,6 +16,7 @@ exclude:
 - Gemfile
 - Gemfile.lock
 - .travis.yml
+- README.md
 
 author:
   name: 'EnginAir'
