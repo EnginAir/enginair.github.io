@@ -10,6 +10,13 @@ description: A capstone project
 lang: en
 timezone: America/Phoenix
 
+exclude:
+- meme.pem.enc
+- .git/
+- Gemfile
+- Gemfile.lock
+- .travis.yml
+
 author:
   name: 'EnginAir'
   url: https://cefns.nau.edu/capstone/projects/CS/2020/EnginAir-S20/
