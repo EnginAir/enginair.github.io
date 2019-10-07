@@ -17,6 +17,8 @@ exclude:
 - Gemfile.lock
 - .travis.yml
 - README.md
+- vendor
+- .bundle
 
 author:
   name: 'EnginAir'
