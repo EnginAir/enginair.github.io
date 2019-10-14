@@ -4,6 +4,7 @@ highlighter:      rouge
 theme: jekyll-theme-hydeout
 baseurl: /capstone/projects/CS/2020/EnginAir-S20
 repository: EnginAir/enginair.github.io
+logo: logo.gif
 title: EnginAir
 tagline: A Capstone Project
 description: A capstone project
