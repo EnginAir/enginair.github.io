@@ -10,7 +10,7 @@ EnginAir is a web-app designed to help Honeywell determine where Wi-Fi is needed
 
 This website is for the 2019-2020 Northern Arizona University Senior Computer Science Capstone to showcase our project.
 
-We are currently working with the [Honeywell Aerospace Division](https://aerospace.honeywell.com/en) (under the direction of Hardland Mitchell) to create a robust system that dynamically and visually represents WiFi signals everytime one of their engines lands at an airport. This concept will in theory help Honeywell keep track of locations that airplanes land at the airports and give an idea to pilots and engineers as to where the plane can get the best signal for the WiFi to upload critical maintainence logs to continue the safety of their flights across the world.
+We are currently working with the [Honeywell Aerospace Division](https://aerospace.honeywell.com/en) (under the direction of Harlan Mitchell) to create a robust system that dynamically and visually represents WiFi signals everytime one of their engines lands at an airport. This concept will in theory help Honeywell keep track of locations that airplanes land at the airports and give an idea to pilots and engineers as to where the plane can get the best signal for the WiFi to upload critical maintainence logs to continue the safety of their flights across the world.
 
 
 ## Updates as of - Oct. 13, 2019
