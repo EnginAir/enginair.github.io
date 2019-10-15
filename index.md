@@ -16,10 +16,17 @@ Our project is sponsored by Honeywell who is the largest producer of gas turbine
 The team is currently working to create a robust system that dynamically and visually represents WiFi signals everytime a Honeywell operated engines lands at an airport. This concept will, in theory, help Honeywell keep track of the locations that airplanes land to give pilots and engineers an idea as to where the plane can get the best WiFI signal to upload critical maintainence logs to ensure safe flights across the world.
 
 ## Team Information: EnginAir
-Our team is comprised of five seniors majoring in Computer Science. 
-<need to include team members -- don't know how you want to format this (i.e. pictures, names, etc.)>
+Our team is comprised of five seniors majoring in Computer Science:
+- Chloe Bates
+- Megan Mikami
+- Gennaro Napolitano
+- Ian Otto
+- Dylan Schreiner
 
-Our team also consists of one graduate school mentor.
+Our team also consists of a graduate school mentor.
+- Scooter Nowak
+
+For a more information on our team, visit ______.
 
 ## Updates as of - Oct. 14, 2019
 EnginAir landing page is completed for the most part.  Some minor changes may occur.
