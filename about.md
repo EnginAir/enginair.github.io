@@ -19,6 +19,7 @@ Major: Computer Science
 
 Hometown: Ewa Beach, Hawaii
 
+
 ![enter image description here](https://i.imgur.com/BaW5Tow.png)
 Name: Gennaro Napolitano
 
@@ -26,12 +27,14 @@ Major: Computer Science
 
 Hometown: Stamford, Connectuicut
 
+
 ![enter image description here](https://i.imgur.com/5f0pcsT.png)
 Name: Ian Otto
 
 Major: Computer Science
 
 Hometown: Los Angeles, California
+
 
 ![enter image description here](https://i.imgur.com/iYbKOKN.png)
 Name: Dylan
@@ -42,6 +45,7 @@ Hometown: Peoria, Arizona
 
 
 Our capstone lead by:
+
 Leader: Dr. Eck Doerry
 
 Mentor: Scooter Nowak
