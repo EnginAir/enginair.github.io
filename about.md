@@ -37,7 +37,7 @@ Hometown: Los Angeles, California
 
 
 ![enter image description here](https://i.imgur.com/iYbKOKN.png)
-Name: Dylan
+Name: Dylan Schreiner
 
 Major: Computer Science
 
