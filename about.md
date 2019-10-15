@@ -39,3 +39,12 @@ Name: Dylan
 Major: Computer Science
 
 Hometown: Peoria, Arizona
+
+
+Our capstone lead by:
+Leader: Dr. Eck Doerry
+
+Mentor: Scooter Nowak
+
+Client: Honeywell International Inc.
+Client Contact: Harlan Mitchell
