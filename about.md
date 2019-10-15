@@ -6,51 +6,51 @@ sidebar_link: true
 Meet the EnginAirs! 
 
 ![](https://i.imgur.com/SFsOKSJ.png)
-Name: Chloe Bates
+**Name:** Chloe Bates
 
-Major: Computer Science
+**Major:** Computer Science
 
-Hometown: Chandler, Arizona
+**Hometown:** Chandler, Arizona
 
 ![enter image description here](https://i.imgur.com/RCenoes.png)
-Name: Megan Mikami(Team Leader)
+**Name:** Megan Mikami(Team Leader)
 
-Major: Computer Science
+**Major:** Computer Science
 
-Hometown: Ewa Beach, Hawaii
+**Hometown:** Ewa Beach, Hawaii
 
 
 ![enter image description here](https://i.imgur.com/BaW5Tow.png)
-Name: Gennaro Napolitano
+**Name:** Gennaro Napolitano
 
-Major: Computer Science
+**Major:** Computer Science
 
-Hometown: Stamford, Connectuicut
+**Hometown:** Stamford, Connectuicut
 
 
 ![enter image description here](https://i.imgur.com/5f0pcsT.png)
-Name: Ian Otto
+**Name:** Ian Otto
 
-Major: Computer Science
+**Major:** Computer Science
 
-Hometown: Los Angeles, California
+**Hometown:** Los Angeles, California
 
 
 ![enter image description here](https://i.imgur.com/iYbKOKN.png)
-Name: Dylan Schreiner
+**Name:** Dylan Schreiner
 
-Major: Computer Science
+**Major:** Computer Science
 
-Hometown: Peoria, Arizona
+**Hometown:** Peoria, Arizona
 
 
 
-Our capstone lead by:
+**Our capstone lead by:**
 
-Leader: Dr. Eck Doerry
+**Leader:** Dr. Eck Doerry
 
-Mentor: Scooter Nowak
+**Mentor:** Scooter Nowak
 
-Client: Honeywell International Inc.
+**Client:** Honeywell International Inc.
 
-Client Contact: Harlan Mitchell
+**Client Contact:** Harlan Mitchell
