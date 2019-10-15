@@ -5,6 +5,8 @@ sidebar_link: true
 ---
 Meet the EnginAirs! 
 
+More detailed information about our team members can be found [here](https://github.com/EnginAir/documentation/blob/master/EnginAir_Team_Inventory.pdf) in our team inventory.
+
 ![](https://i.imgur.com/SFsOKSJ.png)
 **Name:** Chloe Bates
 
