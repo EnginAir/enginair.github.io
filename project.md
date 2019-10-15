@@ -26,8 +26,7 @@ To implements our solution, we have outlined five high-level requirements:
 - We need a way to graphically illustrate the various metrics (i.e. Wi-Fi strentgh, flight paths, etc.)
 
 # Technologies
-Our team is currently discussing different technologies that can be used for the completion of our project. Any documentation that is released for our technology feasability will be made available on our “Document Archive” page of this website.
-
+Our team is currently discussing different technologies that can be used for the completion of our project. Any documentation that is released for our technology feasability will be made available on our “Document Archive” page of this website.  
 Potential Technoliges we are investigating are listed below:
 -
 -
