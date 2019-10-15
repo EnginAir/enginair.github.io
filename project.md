@@ -17,7 +17,7 @@ Our solution consists of three subparts:
 - WiFi Configuration Manager: maps specific longitude/latitude points on a map corresponding to a specific aircraft upload point
 - Customer Connection Module (Sophisticated Web Portal): grahphically illustrates flight paths, landing data, and Wi-Fi strength at specific locations
 
-# Requirements
+## Requirements
 To implements our solution, we have outlined five high-level requirements:
 - We need to build a website for the client
 - We need to create a server-based program to take in information from flight databases
@@ -25,7 +25,7 @@ To implements our solution, we have outlined five high-level requirements:
 - We need to build a database to store flight information
 - We need a way to graphically illustrate the various metrics (i.e. Wi-Fi strentgh, flight paths, etc.)
 
-# Technologies
+## Technologies
 Our team is currently discussing different technologies that can be used for the completion of our project. Any documentation that is released for our technology feasability will be made available on our “Document Archive” page of this website.      
 
 Potential Technoliges:
