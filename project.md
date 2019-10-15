@@ -28,4 +28,8 @@ To implements our solution, we have outlined five high-level requirements:
 ## Technologies
 Our team is currently discussing different technologies that can be used for the completion of our project. Any documentation that is released for our technology feasability will be made available on our “Document Archive” page of this website.      
 
-Potential Technoliges:
+Potential Technologies:
+- NodeJS
+- MySQL
+- Google Maps
+- ADSB-Exchange
