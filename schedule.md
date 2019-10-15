@@ -4,7 +4,7 @@ title: Schedule
 sidebar_link: true
 ---
 
-This page is a representation of the different milestones we need to achieve in order to be able to m
+This page is a representation of the different milestones we need to achieve in order to meet our client's deadlines.
 
 **NOTE:** _Our current schedule is a rough draft, and may not be representative of the final copy. This page is current as of 10/14/2019._
 
