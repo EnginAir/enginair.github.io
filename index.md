@@ -26,7 +26,7 @@ Our team is comprised of five seniors majoring in Computer Science:
 Our team also consists of a graduate school mentor.
 - Scooter Nowak
 
-For a more information on our team, visit ______.
+For a more information on our team, visit [our about us page]({{ 'about.md' | relative_url }}).
 
 ## Updates as of - Oct. 14, 2019
 EnginAir landing page is completed for the most part.  Some minor changes may occur.
