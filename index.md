@@ -4,8 +4,6 @@ title: Home
 sidebar_link: true
 ---
 
-**staging?**
-
 This website is designed to showcase EnginAir, a Northern Arizona University Computer Science Capstone project.  Our project spans the 2019-2020 school year and covers design and requirements acquisition as well an product implementaion. 
 
 ## Introduction
