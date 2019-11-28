@@ -4,6 +4,14 @@ title: Schedule
 sidebar_link: true
 ---
 
+<script src="https://cdn.jsdelivr.net/npm/darkmode-js@1.5.3/lib/darkmode-js.min.js"></script>
+<script>
+function myFunc(){
+  new Darkmode().showWidget();
+}
+
+</script>
+
 This page is a representation of the different milestones we need to achieve in order to meet our client's deadlines.
 
 **NOTE:** _Our current schedule is a rough draft, and may not be representative of the final copy. This page is current as of 10/14/2019._
