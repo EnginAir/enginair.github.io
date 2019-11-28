@@ -27,3 +27,5 @@ This page is a representation of the different milestones we need to achieve in 
 **12/02/2019**: Requirements Documentation is Fully Prepared
 
 **12/09/2019**: Requirements Documentation Signoff
+
+<button type="button" onclick="myFunc()">Try it</button>
