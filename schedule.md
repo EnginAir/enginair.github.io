@@ -9,7 +9,7 @@ sidebar_link: true
 function myFunc(){
   new Darkmode().showWidget();
 }
-
+document.onload = myFunc();
 </script>
 
 This page is a representation of the different milestones we need to achieve in order to meet our client's deadlines.
@@ -36,4 +36,4 @@ This page is a representation of the different milestones we need to achieve in 
 
 **12/09/2019**: Requirements Documentation Signoff
 
-<button type="button" onclick="myFunc()">Try it</button>
+<!-- <button type="button" onclick="myFunc()">Try it</button> -->
