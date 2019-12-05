@@ -35,6 +35,7 @@ To implement our solution, we have outlined five high-level requirements:
 - We need a way to graphically illustrate the various metrics (i.e. Wi-Fi strentgh, flight paths, etc.)
 
 We describe our lower-level requirements in the form of user stories to explain the functionality for the different types of end-users: engine technicians and airplane operators. Engine technicians are more interested in knowing the technical aspects of the aircraft upload process (i.e., upload failure explanations, landing locations, status of upload entry, etc.) while the aircraft operators (i.e. pilots) are more concerned with the big picture like where to park the aircraft to ensure a successful upload.
+
 The eight user stories are listed below:
 
 As an engine technician, I want to be able to:
