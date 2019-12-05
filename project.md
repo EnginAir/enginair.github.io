@@ -19,17 +19,20 @@ Our solution consists of three subparts:
 
 ## Requirements
 To implements our solution, we have outlined five high-level requirements:
-- We need to build a website for the client
-- We need to create a server-based program to take in information from flight databases
 - We need to determine which public flight database to mine 
-- We need to build a database to store flight information
+- We need to create a server-based program to take in information from flight databases & correlate data
+- We need to build a website for the client
+- We need to build a database to store information
 - We need a way to graphically illustrate the various metrics (i.e. Wi-Fi strentgh, flight paths, etc.)
 
 ## Technologies
-Our team is currently discussing different technologies that can be used for the completion of our project. Any documentation that is released for our technology feasability will be made available on our “Document Archive” page of this website.      
+To complete the high-level requiremments, our team is reserached different technologies that can be used to complete of our project. Any documentation that is released for our technology feasability will be made available on our “Document Archive” page of this website.      
+Chosen Technologies:
+- Public Flight Database: ADSB Exchange 
+- Server Application: Java
+- Front End Web Application: NGINX
+- Back End Web Application: NodeJS
+- Database: MongoDB
+- Graphical Illustration Application: Google Maps
 
-Potential Technologies:
-- NodeJS
-- MySQL
-- Google Maps
-- ADSB-Exchange
+Last update: 12/4/2019
