@@ -23,12 +23,10 @@ Our team is comprised of five seniors majoring in Computer Science:
 - Ian Otto
 - Dylan Schreiner
 
-Our team also consists of a graduate school mentor.
+Our team also consists of a graduate school mentor:
 - Scooter Nowak
 
-For a more information on our team, visit [our about us page]({{ 'about.html' | relative_url }}).
+For a more information on our team, visit our [about us] page({{ 'about.html' | relative_url }}).
 
-## Updates as of - Oct. 14, 2019
-EnginAir landing page is completed for the most part.  Some minor changes may occur.
 
-This website is still under construction and you may notice minor and/or major changes on future visits.
+Last update: 12/4/2019
