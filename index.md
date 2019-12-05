@@ -31,6 +31,7 @@ Our team also consists of a graduate school mentor:
 For a more information on our team, visit our [about us] page({{ 'about.html' | relative_url }}).
 
 
+
 References:
 1. Arbor, Ann. “Global Aerospace Industry Worth $838 Billion, According to AeroDynamic Advisory and Teal Group Corporation.” Home - Teal Group. Teal Group Corporation, July 12, 2018. https://www.tealgroup.com/index.php/pages/press-releases/53-global-aerospace-industry-worth-838-billion-according-to-aerodynamic-advisory-and-teal-group-corporation.
 2. Quora. “How Do Jet Airplanes Start Their Engines?” Forbes. Forbes Magazine, April 14, 2017. https://www.forbes.com/sites/quora/2017/04/14/how-do-jet-airplanes-start-their-engines/#11309fa9ab4b.
