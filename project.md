@@ -36,6 +36,7 @@ To implement our solution, we have outlined five high-level requirements:
 
 We describe our lower-level requirements in the form of user stories to explain the functionality for the different types of end-users: engine technicians and airplane operators. Engine technicians are more interested in knowing the technical aspects of the aircraft upload process (i.e., upload failure explanations, landing locations, status of upload entry, etc.) while the aircraft operators (i.e. pilots) are more concerned with the big picture like where to park the aircraft to ensure a successful upload.
 The eight user stories are listed below:
+
 As an engine technician, I want to be able to:
 - view all aircraft landing locations, every 24 hours.
 - visualize all flights that are currently in progress.
@@ -43,6 +44,7 @@ As an engine technician, I want to be able to:
 - know the status of each landing/upload entry.
 - visualize the status of each upload entry
 - run a report to determine the cause of a failed upload.
+
 As an aircraft pilot/operator, I want to be able to:
 - visualize locations on where to park the aircraft for an upload success.
 - simulate locations and their WiFi strength.
