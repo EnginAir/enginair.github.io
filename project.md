@@ -27,6 +27,7 @@ To implements our solution, we have outlined five high-level requirements:
 
 ## Technologies
 To complete the high-level requiremments, our team is reserached different technologies that can be used to complete of our project. Any documentation that is released for our technology feasability will be made available on our “Document Archive” page of this website.      
+
 Chosen Technologies:
 - Public Flight Database: ADSB Exchange 
 - Server Application: Java
