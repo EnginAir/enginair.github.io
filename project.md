@@ -5,28 +5,50 @@ sidebar_link: true
 ---
 
 ## Problem
-A flight delay is something no passenger or flight crew wants to experience – yet we’ve all been there.  Mechanical delays routinely cause aircrafts to be grounded minutes before departure.  This wastes money, time, and causes for an unpleasant flight experience.  In order to prevent these unwanted delays, fight data via diagnostic reports are reviewed by engineers and mechanics.  Currently, Honeywell engine operators gather this data manually, with a manual port connection and a USB.  This tedious process occurs only once a month, leading to infrequent data collections and missed maintenance opportunities. 
- 
-To better this process and collect flight data more frequently, Honeywell is currently developing a connected engine product called CEDAS (Connected Engine Data Access System). CEDAS is an autonomous system that allows engine data diagnostics to be uploaded wirelessly to the cloud.  The problem with this is that diagnostics may not send if the Wi-Fi connection is spotty or nonexistent at a certain location.  When this occurs and a data upload is not on schedule, it is difficult to determine whether the aircraft is grounded, in flight, or if there is a problem with the engine. 
+During a flight, the Engine Control Unit (ECU) saves trending and maintenance data which is reported to the mechanics and engineers via a hardware diagnostic report. Proper upkeep is important to prevent maintenance delays and keeps the engine functioning properly to ensure a safe flight.
+
+<insert "problem 1" image here>
+
+Currently, Honeywell engine operators are required to download and send engine diagnostic data reports once a month. This process requires:
+1. a manual port connection using a USB device and a cable,
+2. transferring a file to a USB drive, and
+3. sending the file via email.
+This process is tedious and collects a small data set containing basic maintenance information. Because this process occurs once a month, it can result in infrequent data collections and missed maintenance opportunities.
+
+<insert "problem 2" image here>
+
+To better this process and collect flight data more frequently, Honeywell is currently developing a connected engine product called the Connected Engine Data Access System (CEDAS). CEDAS allows engines to autonomously upload engine data wirelessly to a cloud. The CEDAS is hosted on an embedded computer located in the aircraft along with a WiFi antenna. If the WiFi connection is spotty or nonexistent at a certain location, the diagnostics may not send. When this happens and the data upload is not on schedule, it is difficult to determine the status of the aircraft; whether it is grounded, inflight, or if there is a potential problem with the engine. 
 
 The initial concept for this project was provided by our sponsor and can be found [here](https://www.cefns.nau.edu/~edo/Classes/CS_Capstone/Projects/F19/Mitchell-WiFi-Signal-Location.pdf).
 
 ## Solution
-Our solution consists of three subparts:
-- Landing Monitor: collects landing location data (latitude/longitude) where indivudal engine startup/shutdown occurs
-- WiFi Configuration Manager: maps specific longitude/latitude points on a map corresponding to a specific aircraft upload point
-- Customer Connection Module (Sophisticated Web Portal): grahphically illustrates flight paths, landing data, and Wi-Fi strength at specific locations
+To solve our client’s problem, our team has come up with the Connected Engine Upload Status System (CEUSS). Two primary goals of this system are: 1) provide airplane operators a way to know where to park their aircraft for the highest chance of upload success and 2) provide engineers a way to be notified and help visualize where and when potential problems occur. CUESS is composed of two main components: the server-side backend software which is primarily responsible for the data import and execution of database correlations, and the administrative front end web panel which is primarily used as a graphical interface to display notifications and LON/LAT locations.
+A high-level workflow of our solution is outlined below:
+<insert solution here>
 
 ## Requirements
-To implements our solution, we have outlined five high-level requirements:
+To implement our solution, we have outlined five high-level requirements:
 - We need to determine which public flight database to mine 
 - We need to create a server-based program to take in information from flight databases & correlate data
 - We need to build a website for the client
 - We need to build a database to store information
 - We need a way to graphically illustrate the various metrics (i.e. Wi-Fi strentgh, flight paths, etc.)
 
+We describe our lower-level requirements in the form of user stories to explain the functionality for the different types of end-users: engine technicians and airplane operators. Engine technicians are more interested in knowing the technical aspects of the aircraft upload process (i.e., upload failure explanations, landing locations, status of upload entry, etc.) while the aircraft operators (i.e. pilots) are more concerned with the big picture like where to park the aircraft to ensure a successful upload.
+The eight user stories are listed below:
+As an engine technician, I want to be able to:
+- view all aircraft landing locations, every 24 hours.
+- visualize all flights that are currently in progress.
+- simulate various locations and their corresponding WiFi configuration.
+- know the status of each landing/upload entry.
+- visualize the status of each upload entry
+- run a report to determine the cause of a failed upload.
+As an aircraft pilot/operator, I want to be able to:
+- visualize locations on where to park the aircraft for an upload success.
+- simulate locations and their WiFi strength.
+
 ## Technologies
-To complete the high-level requiremments, our team is reserached different technologies that can be used to complete of our project. Any documentation that is released for our technology feasability will be made available on our “Document Archive” page of this website.      
+To complete the high-level requiremments, our team is reserached different technologies that can be used to complete of our project.
 
 Chosen Technologies:
 - Public Flight Database: ADSB Exchange 
