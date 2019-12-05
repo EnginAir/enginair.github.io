@@ -28,7 +28,8 @@ This page is a representation of the different milestones we need to achieve in 
 
 **12/11/2019**: Requirements Documentation Signoff
 
-<insert fall semester here>
+
+**insert fall semester here**
   
   
 **01/13/2020**: Individual Component Development Starts
@@ -49,7 +50,7 @@ This page is a representation of the different milestones we need to achieve in 
 
 **05/04/2020**: Beta Prootype Developed
 
-<insert spring semester here>
+**insert spring semester here**
   
   
 Last updated: 12/4/2019
