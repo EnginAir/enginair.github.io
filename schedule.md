@@ -14,26 +14,45 @@ document.onload = myFunc();
 
 This page is a representation of the different milestones we need to achieve in order to meet our client's deadlines.
 
-**NOTE:** _Our current schedule is a rough draft, and may not be representative of the final copy. This page is current as of 10/14/2019._
-
-**10/15/2019**: Team Website Fully Initialized
+**NOTE:** _This schedule is tentative and may may change. This schedule is current as of 12/4/2019._
 
 **10/21/2019**: Technology Feasability Draft Completed
 
 **11/04/2019**: Technology Feasability Fully Created and Submitted
 
-**11/05/2019**: Development Begins on Command Line Application
+**11/22/2019**: Design Review Presentation
 
-**11/11/2019**: Design Review Presentation Fully Prepared
+**12/01/2019**: Requirements Documentation Draft Completed
 
-**11/18/2019**: Requirement Documentation Draft Fully Created
+**12/09/2019**: Prototype Demonstration to Mentor
 
-**11/18/2019**: Prototype Is Prepared For Demonstration
+**12/11/2019**: Requirements Documentation Signoff
 
-**11/25/2019**: Prototype Demonstration to Mentor
+<insert fall semester here>
+  
+  
+**01/13/2020**: Individual Component Development Starts
 
-**12/02/2019**: Requirements Documentation is Fully Prepared
+**02/29/2020**: Individual Component Development Complete
 
-**12/09/2019**: Requirements Documentation Signoff
+**02/01/2020**: Component Integration Starts
+
+**02/01/2020**: Testing Starts
+
+**02/29/2020**: Conponenet Integration Ends
+
+**03/14/2020**: Testing Ends
+
+**03/14/2020**: Alpha Prototype Developed
+
+**03/23/2020**: Final Refinement & Testing 
+
+**05/04/2020**: Beta Prootype Developed
+
+<insert spring semester here>
+  
+  
+Last updated: 12/4/2019
+
 
 <!-- <button type="button" onclick="myFunc()">Try it</button> -->
