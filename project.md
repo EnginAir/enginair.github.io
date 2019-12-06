@@ -7,7 +7,7 @@ sidebar_link: true
 ## Problem
 During a flight, the Engine Control Unit (ECU) saves trending and maintenance data which is reported to the mechanics and engineers via a hardware diagnostic report. Proper upkeep is important to prevent maintenance delays and keeps the engine functioning properly to ensure a safe flight.
 
-<insert "problem 1" image here>
+![Problem 1](/img/prob1.png)
 
 Currently, Honeywell engine operators are required to download and send engine diagnostic data reports once a month. This process requires:
 1. a manual port connection using a USB device and a cable,
@@ -15,7 +15,7 @@ Currently, Honeywell engine operators are required to download and send engine d
 3. sending the file via email.
 This process is tedious and collects a small data set containing basic maintenance information. Because this process occurs once a month, it can result in infrequent data collections and missed maintenance opportunities.
 
-<insert "problem 2" image here>
+![Problem 2](/img/prob2.png)
 
 To better this process and collect flight data more frequently, Honeywell is currently developing a connected engine product called the Connected Engine Data Access System (CEDAS). CEDAS allows engines to autonomously upload engine data wirelessly to a cloud. The CEDAS is hosted on an embedded computer located in the aircraft along with a WiFi antenna. If the WiFi connection is spotty or nonexistent at a certain location, the diagnostics may not send. When this happens and the data upload is not on schedule, it is difficult to determine the status of the aircraft; whether it is grounded, inflight, or if there is a potential problem with the engine. 
 
@@ -24,7 +24,7 @@ The initial concept for this project was provided by our sponsor and can be foun
 ## Solution
 To solve our client’s problem, our team has come up with the Connected Engine Upload Status System (CEUSS). Two primary goals of this system are: 1) provide airplane operators a way to know where to park their aircraft for the highest chance of upload success and 2) provide engineers a way to be notified and help visualize where and when potential problems occur. CUESS is composed of two main components: the server-side backend software which is primarily responsible for the data import and execution of database correlations, and the administrative front end web panel which is primarily used as a graphical interface to display notifications and LON/LAT locations.
 A high-level workflow of our solution is outlined below:
-<insert solution here>
+![Solution Workflow](/img/solution.png)
 
 ## Requirements
 To implement our solution, we have outlined five high-level requirements:
