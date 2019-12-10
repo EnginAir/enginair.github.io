@@ -4,14 +4,6 @@ title: Schedule
 sidebar_link: true
 ---
 
-<script src="https://cdn.jsdelivr.net/npm/darkmode-js@1.5.3/lib/darkmode-js.min.js"></script>
-<script>
-function myFunc(){
-  new Darkmode().showWidget();
-}
-document.onload = myFunc();
-</script>
-
 This page is a representation of the different milestones we need to achieve in order to meet our client's deadlines.
 
 **NOTE:** _This schedule is tentative and may may change. This schedule is current as of 12/4/2019._
@@ -29,7 +21,7 @@ This page is a representation of the different milestones we need to achieve in 
 **12/11/2019**: Requirements Documentation Signoff
 
 
-**insert fall semester here**
+![Fall Semester]({{site.baseurl}}/img/fall-sched.png)
   
   
 **01/13/2020**: Individual Component Development Starts
@@ -50,7 +42,7 @@ This page is a representation of the different milestones we need to achieve in 
 
 **05/04/2020**: Beta Prootype Developed
 
-**insert spring semester here**
+![Spring Semester]({{site.baseurl}}/img/spring-sched.png)
   
   
 Last updated: 12/4/2019
