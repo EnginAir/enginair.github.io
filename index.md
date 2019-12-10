@@ -28,7 +28,7 @@ Our team is comprised of five seniors majoring in Computer Science:
 Our team also consists of a graduate school mentor:
 - Scooter Nowak
 
-For a more information on our team, visit our [about us] page({{ 'about.html' | relative_url }}).
+For a more information on our team, visit our [about us]({{ 'about.html' | relative_url }}) page.
 
 
 
