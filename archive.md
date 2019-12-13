@@ -4,6 +4,20 @@ title: Document Archive
 sidebar_link: true
 ---
 
+<head>
+<script>
+      window.onload = function update(){
+        var today = new Date();
+        var dd = String(today.getDate()).padStart(2, '0');
+        var mm = String(today.getMonth() + 1).padStart(2, '0'); //January is 0!
+        var yyyy = today.getFullYear();
+        today = mm + '/' + dd + '/' + yyyy;
+        document.getElementById("lastUpdated").innerHTML = "Last updated: " + today;
+      }
+    </script>
+</head>
+
+
 The following table contains all submitted deliverables and presentation PDFs
 
 |Document | Description |
@@ -14,5 +28,7 @@ The following table contains all submitted deliverables and presentation PDFs
 |[Teachnology Feasability](https://github.com/EnginAir/documentation/blob/master/Feasibility%20Analysis.pdf)|A document that outlines the technology feasability for the envisioned product.|
 |[Requirements V1](https://github.com/EnginAir/documentation/blob/master/Requirements%20Document%20v1.pdf)|A document that outlines the requirements for this project.|
 |[Design Review 1](https://github.com/EnginAir/documentation/blob/master/EnginAir%20Design%20Review%20I.pdf)|A PDF copy of our powerpoint for our first design review.|
+|[Requirements V1](https://github.com/EnginAir/documentation/blob/master/Requirements%20Document%20v1.pdf)|A document that outlines the requirements for this project.|
+|[Requirements V2](https://github.com/EnginAir/documentation/blob/master/Requirements%20Document%20v2.pdf)|A client approved revised document that outlines the requirements for this project.|
 
-Last updated: Dec. 9, 2019
+<p id="lastUpdated"></p>
