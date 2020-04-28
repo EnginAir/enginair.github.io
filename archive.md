@@ -38,4 +38,8 @@ The following table contains all submitted deliverables and presentation PDFs
 |[User Manual](https://github.com/EnginAir/documentation/blob/master/User%20Manual.pdf)|User Manual for our software.|
 |[As Built Report](https://github.com/EnginAir/documentation/blob/master/Final%20As-Built%20Report.pdf)|Final as built report.|
 
+
+[![Alt text](https://img.youtube.com/vi/t2Ne8K0lD_o/0.jpg)](https://www.youtube.com/watch?v=t2Ne8K0lD_o)
+
+
 <p id="lastUpdated"></p>
