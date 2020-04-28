@@ -34,5 +34,8 @@ The following table contains all submitted deliverables and presentation PDFs
 |[Software Design Document v1](https://github.com/EnginAir/documentation/blob/master/Software%20Design%20Document%20v1.pdf)|A PDF copy of our software design document.|
 |[Software Design Document v2](https://github.com/EnginAir/documentation/blob/master/Software%20Design%20Document%20v2.pdf)|A PDF copy of our software design document - final draft.|
 |[Communication Strategy Memo](https://github.com/EnginAir/documentation/blob/master/Communication%20Strategy%20Memo.pdf)|A PDF copy of our teams communication strategy outline.|
+|[UGRADS Poster](https://github.com/EnginAir/documentation/blob/master/UGRADS_Poster_EnginAir.pdf)|NAU UGRADS Poster Presentation|
+|[User Manual](https://github.com/EnginAir/documentation/blob/master/User%20Manual.pdf)|User Manual for our software.|
+|[As Built Report](https://github.com/EnginAir/documentation/blob/master/Final%20As-Built%20Report.pdf)|Final as built report.|
 
 <p id="lastUpdated"></p>
