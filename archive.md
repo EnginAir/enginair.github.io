@@ -28,7 +28,6 @@ The following table contains all submitted deliverables and presentation PDFs
 |[Teachnology Feasability](https://github.com/EnginAir/documentation/blob/master/Feasibility%20Analysis.pdf)|A document that outlines the technology feasability for the envisioned product.|
 |[Requirements V1](https://github.com/EnginAir/documentation/blob/master/Requirements%20Document%20v1.pdf)|A document that outlines the requirements for this project.|
 |[Design Review 1](https://github.com/EnginAir/documentation/blob/master/EnginAir%20Design%20Review%20I.pdf)|A PDF copy of our powerpoint for our first design review.|
-|[Requirements V1](https://github.com/EnginAir/documentation/blob/master/Requirements%20Document%20v1.pdf)|A document that outlines the requirements for this project.|
 |[Requirements V2](https://github.com/EnginAir/documentation/blob/master/Requirements%20Document%20v2.pdf)|A client approved revised document that outlines the requirements for this project.|
 |[Signed Requirements V2](https://github.com/EnginAir/documentation/blob/master/Requirements%20Document%20v2%20signed.pdf)|A signed copy of the revised requirements document that outlines the requirements for this project.|
 
