@@ -41,5 +41,4 @@ The following table contains all submitted deliverables and presentation PDFs
 
 [![Alt text](https://img.youtube.com/vi/t2Ne8K0lD_o/0.jpg)](https://www.youtube.com/watch?v=t2Ne8K0lD_o)
 
-
 <p id="lastUpdated"></p>
