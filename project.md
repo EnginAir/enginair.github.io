@@ -59,6 +59,6 @@ Chosen Technologies:
 - Front End Web Application: NGINX
 - Back End Web Application: NodeJS
 - Database: MongoDB
-- Graphical Illustration Application: Google Maps
+- Graphical Illustration Application: OpenStreetMap
 
 Last update: 12/4/2019
